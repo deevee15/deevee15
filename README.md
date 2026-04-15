@@ -89,7 +89,6 @@ Full-Stack Software Engineer with strong background in enterprise modernization,
 |---------|-------------|------|
 | [**text-similarity-php**](https://github.com/namesurname/text-similarity-php) | Pure PHP library for detecting duplicate news articles using morphological analysis and entity-weighted scoring. Published on Packagist. | PHP, phpMorphy, NLP |
 | **CMS & Admin Panel** | Custom-built content management system with 150+ RESTful endpoints, serving 200K+ monthly visitors across 10K+ pages. | PHP, REST API, MySQL, nginx |
-| **Enterprise Migration Toolkit** | End-to-end migration tooling from IBM WebSphere to PHP/nginx for a major national museum. | PHP, Bash, nginx, LEMP |
 | **Telegram VPN Bot** | Automated WireGuard VPN provisioning — rents VMs via hosting API, deploys WireGuard, generates configs, and delivers to users after payment. ~100+ active users. | PHP, Telegram API, WireGuard |
 | **Events Aggregator** | Aggregates 1000+ daily events across Russia from 5 sources (VK, Yandex.Afisha, Kassir, KudaGo, Afisha). | PHP, cURL, MySQL |
 | **Chrome Extension · Web Scraper** | Browser extension for parsing marketplaces and map services — 5 data sources, ~20K items/day. | JavaScript, Chrome APIs |
