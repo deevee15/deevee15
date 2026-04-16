@@ -15,7 +15,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 Full-Stack Software Engineer with strong background in enterprise modernization, DevOps, and NLP.
 
@@ -27,7 +27,7 @@ Full-Stack Software Engineer with strong background in enterprise modernization,
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table>
   <tr>
@@ -83,7 +83,7 @@ Full-Stack Software Engineer with strong background in enterprise modernization,
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -94,7 +94,7 @@ Full-Stack Software Engineer with strong background in enterprise modernization,
 | **Chrome Extension · Web Scraper** | Browser extension for parsing marketplaces and map services — 5 data sources, ~20K items/day. | JavaScript, Chrome APIs |
 | **Government Tenders Scraper** | High-throughput scraper for tenders and procurement data from official state sources — processing 10K+ bids/day. | PHP, cURL |
 
-### 📊 GitHub Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deevee15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
